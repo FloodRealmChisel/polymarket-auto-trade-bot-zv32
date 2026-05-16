@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Strategy | API-integration + backtesting is the best Polymarket strategy, featuring API-integration and backtesting. Smart, fast, and optimized for trading
 
 
 
